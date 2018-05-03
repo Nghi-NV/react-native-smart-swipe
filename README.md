@@ -7,7 +7,7 @@
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-smart-swipe`
+`$ react-native link react-native-interactable`
 
 ### Manual installation
 

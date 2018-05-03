@@ -1,6 +1,4 @@
 
-import { NativeModules } from 'react-native';
+import SmartSwipeRow from './src/SmartSwipeRow';
 
-const { RNSmartSwipe } = NativeModules;
-
-export default RNSmartSwipe;
+export default SmartSwipeRow;
