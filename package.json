@@ -1,0 +1,24 @@
+
+{
+  "name": "react-native-smart-swipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nghi-NV/react-native-smart-swipe.git"
+  },
+  "keywords": [
+    "react-native",
+    "swipe",
+    "smart swipe"
+  ],
+  "author": "NghiNV",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
