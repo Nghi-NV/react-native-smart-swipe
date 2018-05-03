@@ -4,8 +4,6 @@
 ## Getting started
 
 `$ npm install react-native-smart-swipe --save`
-or
-`$ yarn add react-native-smart-swipe --save`
 
 ### Mostly automatic installation
 
